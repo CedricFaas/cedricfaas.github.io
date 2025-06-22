@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Masters Student at Saarland University
+subtitle: Master's Student at Saarland University
 
 profile:
   align: right

@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Cedric Faas
-#    - name: Date of Birth
-#      value: 14th March 1879
     - name: Languages
       value: English, German
 
@@ -18,7 +16,7 @@
       institution: Saarland University, Saarbrücken, Germany
       year: 2025
       description:
-        - Thesis on "A Critical Examination of Human Oversight in AI: Applying Fischer and Ravizza's Framework of Moral Responsibility"
+        - Thesis on "A Critical Examination of Human Oversight in AI - Applying Fischer and Ravizza's Framework of Moral Responsibility"
     - title: BSc Computer Science
       institution: Saarland University, Saarbrücken, Germany
       year: 2022
@@ -30,7 +28,7 @@
   contents:
     - title: Research Assistant
       institution: Computational Interactions Group, Saarland Informatics Campus, Saarbrücken, Germany
-      year: since January 2024
+      year: 2024 - ongoing
     - title: Interactive Systems Tutor
       institution: Saarland Informatics Campus, Saarbrücken, Germany
       year: Summer 2024
@@ -58,12 +56,15 @@
   contents:
     - title: Topic 1.
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Human-AI Collaboration,
+        - AI-supported Decision-Making,
+        - Human Oversight,
+        - Human-Centered AI,
+        - Interface Design,
+        - User-Centered Design,
+        - Motivation,
+        - AI Ethics,
+        - Responsibility
 
 - title: Other Interests
   type: list
