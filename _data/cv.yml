@@ -54,15 +54,16 @@
 - title: Academic Interests
   type: nested_list
   contents:
+    - title: Human-Computer Interaction.
       items:
         - Human-AI Collaboration
         - AI-supported Decision-Making
         - Human Oversight
-        - Human-Centered AI
-        - Interface Design
-        - User-Centered Design
-        - Motivation
-        - AI Ethics
+        - Human-Centered AI,
+        - Interface Design,
+        - User-Centered Design,
+        - Motivation,
+        - AI Ethics,
         - Responsibility
 
 - title: Other Interests
