@@ -5,6 +5,29 @@
       value: Cedric Faas
     - name: Languages
       value: English, German
+      
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Associate & PhD Candidate
+      institution: Computational Interactions Group, Saarland Informatics Campus, Saarbrücken, Germany
+      year: 2025 - ongoing
+    - title: Research Assistant
+      institution: Computational Interactions Group, Saarland Informatics Campus, Saarbrücken, Germany
+      year: 2024 - 2025
+    - title: Human-Computer Interactions Tutor
+      institution: Saarland Informatics Campus, Saarbrücken, Germany
+      year: Winter 2025
+    - title: Interactive Systems Tutor
+      institution: Saarland Informatics Campus, Saarbrücken, Germany
+      year: Summer 2024
+
+- title: Scientific Services
+  type: time_table
+  contents:
+    - title: Member of the Ethical Review Board
+      institution: Faculty of Mathematics and Computer Science, Saarland University, Saarbrücken, Germany
+      year: 2025 - ongoing
 
 - title: Education
   type: time_table
@@ -25,18 +48,6 @@
       description:
         - Thesis on "Effects of Visual Highlighting on Users' Attention, Decision-Making, and Autonomy"
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Assistant
-      institution: Computational Interactions Group, Saarland Informatics Campus, Saarbrücken, Germany
-      year: 2024 - ongoing
-    - title: Human-Computer Interactions Tutor
-      institution: Saarland Informatics Campus, Saarbrücken, Germany
-      year: Winter 2025
-    - title: Interactive Systems Tutor
-      institution: Saarland Informatics Campus, Saarbrücken, Germany
-      year: Summer 2024
 
 #- title: Open Source Projects
 #  type: time_table
